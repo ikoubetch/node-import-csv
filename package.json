@@ -1,0 +1,9 @@
+{
+  "name": "import-csv",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "fast-csv": "^3.4.0"
+  }
+}
